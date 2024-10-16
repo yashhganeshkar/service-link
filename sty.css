@@ -1,0 +1,51 @@
+﻿body {
+    background-image: url(img/bg.jpg);
+    background-color: whitesmoke;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 80%;
+    background-position: center center;
+    background-size: cover;
+}
+
+
+nav {
+    opacity: 0.6;
+    background-color: aqua;
+}
+
+#para {
+    text-align: center;
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    padding: 0.1rem;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    width: 500px;
+    align-items: center;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    background-color:;
+}
+
+#logo {
+    font-size: 30px;
+    color: black;
+}
+
+a {
+    font-weight: bold;
+    color: black;
+}
+
+h3 {
+    color: black;
+}
